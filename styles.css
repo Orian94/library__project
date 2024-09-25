@@ -509,5 +509,14 @@ FOOTER
     .btn__menu {
         display: block;
     }
+
+    .book {
+        width: 50%;   
+      }
+
+    .books {
+        display: flex;
+        flex-wrap: wrap;
+    }
 }
 
